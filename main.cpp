@@ -25,6 +25,9 @@ int main(int argc, char * argv[]) {
     printLine("Calling CWE190_Integer_Overflow__char_max_square_67_good();");
     CWE190_Integer_Overflow__char_max_square_67_good();
 
+    printLine("Calling CWE190_Integer_Overflow__char_max_square_67_bad();");
+    CWE190_Integer_Overflow__char_max_square_67_bad();
+
 
     return 0;
 
